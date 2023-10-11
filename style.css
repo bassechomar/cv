@@ -1,0 +1,9 @@
+ header{ background-color: black ;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: center;
+      
+        }
+.zamo ul li a {
+    color: yellowgreen ;
+    text-decoration: none;
+}
